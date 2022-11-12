@@ -22,7 +22,7 @@ module.exports = {
             const activityOptions = [
                 {
                     type: ActivityType.Watching,
-                    name: `/help | Demons Community`,
+                    name: `/help | WHAT U WANT`,
                 },
                 {
                     type: ActivityType.Watching,
