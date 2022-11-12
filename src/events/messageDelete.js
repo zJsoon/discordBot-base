@@ -9,8 +9,8 @@ module.exports = {
      */
     async execute(msg, client) {
         const ch = await (
-            await client.guilds.fetch("1030848402868674571")
-        ).channels.fetch("1032384937023787139");
+            await client.guilds.fetch("YOUR GUILD")
+        ).channels.fetch("YOUR CHANNEL LOG");
 
         const imgs = [...msg.attachments.values()]
             .filter((att) => att.contentType.startsWith("image"))
