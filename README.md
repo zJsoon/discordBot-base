@@ -1,7 +1,8 @@
 # discordBot-base
-Simple base for our discord bot | discord.js --> V14.6.0
+Simple base for our discord bot | Programmed -> JS
 
 # Feature
+- discord.js version -> V14.6.0
 - Simple base
 - Slash Commands
 - Message Delete Logs
