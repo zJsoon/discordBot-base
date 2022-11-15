@@ -29,4 +29,4 @@ for (const folder of functionFolders) {
 client.handleEvents();
 client.handleCommands();
 
-client.login(process.env.token).catch(() => console.log(`-[X]- NO HAS ESPECIFICADO UN TOKEN VALIDO O TE FLATAN INTENTOS -[X]-\n [-] ACTIVA LOS INTENTOS EN https://discord.dev [-]`.red))
+client.login(process.env.token).catch(() => console.log(`-[X]-YOU HAVE NOT SPECIFIED A VALID TOKEN OR YOU ARE FAILING ATTEMPTS -[X]-[-] ENABLE ATTEMPTS ON https://discord.dev [-]`.red))
