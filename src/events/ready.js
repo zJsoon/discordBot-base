@@ -6,7 +6,7 @@ module.exports = {
     once: true,
     async execute(client) {
         console.log(`-------------- BOT INFO --------------`.brightBlue);
-        console.log(`  - [Conectado como]: ${client.user.tag}`.brightBlue);
+        console.log(`  - [Logged in as]: ${client.user.tag}`.brightBlue);
         console.log(
             `  - [CLIENT]: ${client.guilds.cache.size} servers`.brightBlue
         );
