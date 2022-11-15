@@ -5,6 +5,7 @@ Simple base for our discord bot | Programmed -> JS
 - discord.js version -> V14.6.0
 - Simple base
 - Slash Commands
+- .env -> Token protection system
 - Message Delete Logs
 - /ping command
 
