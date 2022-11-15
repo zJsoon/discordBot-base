@@ -10,7 +10,7 @@ module.exports = {
             } catch(error) {
                 console.error(error);
                 await interaction.reply({
-                    content: 'Ha habido un error al ejecutar el comando. | There was an error executing the command.',
+                    content: 'There was an error executing the command.',
                     ephemeral: true,
                 });
             }
