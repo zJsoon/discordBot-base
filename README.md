@@ -1,7 +1,11 @@
 # discordBot-base
+
 Simple base for our discord bot | Programmed -> JS
 
+[Contact Me!](https://zjson.dev/contact)
+
 # Feature
+
 - discord.js version -> V14.6.0
 - Simple base
 - Slash Commands
@@ -10,6 +14,7 @@ Simple base for our discord bot | Programmed -> JS
 - /ping command
 
 # Requeriments
+
 - Node.js | [Click to Download](https://nodejs.org/en/download/)
 - VSC | [Click to Download](https://code.visualstudio.com/download)
 
